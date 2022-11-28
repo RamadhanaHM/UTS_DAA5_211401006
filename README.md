@@ -9,11 +9,14 @@
 
 
 
+# NAMA : Ramadhana Hasriansyah M
+NIM    : 211401006
 
+Link Video :
+*Stack dan Queue
+https://youtu.be/ZYpfGYo4oa0 
 
-CARA PENGUMPULAN : 
-FORK UTS DI GITHUB
-PUSH CODINGAN DI GITHUB
+*Linkedlist
+https://youtu.be/_6S4tbuj9nw 
 
-FORMAT REPOSITORY UTS_DAA5_NIM
 
